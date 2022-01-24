@@ -48,6 +48,8 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
+wait(16)
+
 local args = {
     [1] = "Your bestie say she wan' party",
     [2] = "All"
@@ -82,6 +84,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
 
 local args = {
     [1] = "Jock-a-mo fee na-ey (boom)",
@@ -118,6 +122,8 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
+wait(16)
+
 local args = {
     [1] = "Talkin' hey now (hey now), hey now (hey now)",
     [2] = "All"
@@ -152,6 +158,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
 
 local args = {
     [1] = "Hips be windin', DJ rewindin'",
@@ -188,6 +196,8 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
+wait(16)
+
 local args = {
     [1] = "Jammin' the small jam way",
     [2] = "All"
@@ -222,6 +232,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
 
 local args = {
     [1] = "Talkin' hey now (hey now), hey now (hey now)",
@@ -258,6 +270,8 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
+wait(16)
+
 local args = {
     [1] = "Solomon girl straight up right hoochie mama",
     [2] = "All"
@@ -292,6 +306,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
 
 local args = {
     [1] = "Me tappin on mi beat, make you slow whine for me, baby",
@@ -328,6 +344,8 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
+wait(16)
+
 local args = {
     [1] = "Grab your shoes then we'll two-by-two",
     [2] = "All"
@@ -362,6 +380,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
 
 local args = {
     [1] = "Jock-a-mo fee na-ey",
@@ -398,6 +418,8 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
+wait(16)
+
 local args = {
     [1] = "Whine up, go down, whine up, go down",
     [2] = "All"
@@ -432,6 +454,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
 
 local args = {
     [1] = "Twist your body backwards (twist it back)",
@@ -468,6 +492,8 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
+wait(16)
+
 local args = {
     [1] = "Your bestie say she wan' party",
     [2] = "All"
@@ -502,6 +528,8 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(16)
 
 local args = {
     [1] = "Jock-a-mo fee na-ey",
